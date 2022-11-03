@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any interesting projects that involve software development, as i am trying to expand my knowledge and my arsenals of skills as a computer science student
 - 📫 contact Info:
 - For any professional or work-related concerns: manuelreyes1241@outlook.com
-- 
 
 <!---
 MReyes1241/MReyes1241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
